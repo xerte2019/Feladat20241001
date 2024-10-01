@@ -1,0 +1,4 @@
+- A szöveges file letöltése GITHUB-ról.
+- A file feldolgozása python programmal, adatszerkezete: JSON
+- A JSON adatok kiírása file-ba.
+- A kiírt adat feltöltése saját GITHUB-ra.
